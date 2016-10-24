@@ -1,0 +1,9 @@
+#NEAP Client-Side
+
+This is the client-dide of our NEAP App. It consumes data from the server. It's Angular.
+
+1. create a new project
+1. yo galvanize-html
+1. npm i
+1. run gulp
+1. Add README and add .gitignore
